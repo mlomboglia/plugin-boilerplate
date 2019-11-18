@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CustomFlexExtensions",
+    "version": "0.0.1",
+    "class": "CustomFlexExtensions",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1.14.0"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-boilerplate.js"
+  }
+]
